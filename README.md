@@ -1,4 +1,4 @@
-# PDF Chapter Splitter
+# PDF Splitter
 
 A command-line tool that splits PDF files into separate chapters based on their table of contents (bookmarks). Ideal for breaking down large PDF books or documents into smaller, chapter-based files.
 
